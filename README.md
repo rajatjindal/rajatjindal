@@ -5,7 +5,7 @@
 </p>
 
 - I’m currently working as contractor (India, full remote).
-- I’ve been doing full stack development using **Golang/Nuxtjs/Postgres**
+- I’ve been doing full stack development using **Golang/Nuxtjs/Postgres/Tailwind**
 - I also have good experience working with **Kubernetes/Helm/AWS** and **Selenium/Webdriver**
 - You can reach me: [@rajatjindal1983](https://twitter.com/rajatjindal1983) on Twitter
 
