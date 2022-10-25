@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/rajatjindal83/">LinkedIn</a>
 </p>
 
-- I’m currently working as contractor (India, full remote).
-- I’ve been doing full stack development using **Golang/Nuxtjs/Postgres/Tailwind**
+- I’m currently working as Platform engineer at [Fermyon](https://github.com/fermyon)
+- In my spare time, I like to build fun projects using **Golang/Nuxtjs/Postgres/Tailwind**
 - I also have good experience working with **Kubernetes/Helm/AWS** and **Selenium/Webdriver**
 - You can reach me: [@rajatjindal1983](https://twitter.com/rajatjindal1983) on Twitter
 
