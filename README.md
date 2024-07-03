@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/rajatjindal83/">LinkedIn</a>
 </p>
 
-- I’m currently looking for new opportunities and open for both contract and full-time opportunities. I can be reached out at rajatjindal83@gmail.com
+- I’m currently looking for new opportunities and open for both contract and full-time positions. I can be reached out at rajatjindal83@gmail.com
 - In my spare time, I like to build fun projects using **Golang/Nuxtjs/Postgres/Tailwind**
 - I also have good experience working with **Kubernetes/Helm/AWS** and **Selenium/Webdriver**
 - You can reach me: [@rajatjindal1983](https://twitter.com/rajatjindal1983) on Twitter
