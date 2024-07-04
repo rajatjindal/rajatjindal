@@ -9,6 +9,7 @@
 - I also have good experience working with **Kubernetes/Helm/AWS** and **Selenium/Webdriver**
 - You can reach me: [@rajatjindal1983](https://twitter.com/rajatjindal1983) on Twitter
 
+![k8s contributor card](https://contribcard.clotributor.dev/rajatjindal)
 <h2>Projects</h3>
 <table>
   <thead align="center">
