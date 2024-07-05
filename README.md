@@ -4,12 +4,15 @@
   <a href="https://www.linkedin.com/in/rajatjindal83/">LinkedIn</a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatjindal&hide=perl)](https://github.com/rajatjindal)&nbsp;&nbsp;&nbsp;
+[![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatjindal&count_private=true&show_icons=true)](https://github.com/rajatjindal)
+
 - I’m currently looking for new opportunities and open for both contract and full-time positions. I can be reached out at rajatjindal83@gmail.com
 - In my spare time, I like to build fun projects using **Golang/Nuxtjs/Postgres/Tailwind**
 - I also have good experience working with **Kubernetes/Helm/AWS** and **Selenium/Webdriver**
 - You can reach me: [@rajatjindal1983](https://twitter.com/rajatjindal1983) on Twitter
 
-![k8s contributor card](https://contribcard.clotributor.dev/rajatjindal)
+
 <h2>Projects</h3>
 <table>
   <thead align="center">
