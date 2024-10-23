@@ -1,4 +1,9 @@
+
 <h2 align="center">👋 Hello! I'm Rajat Jindal.</h2>
+
+> [!TIP]  
+> I currently have bandwidth to take on contract work for upto 20h per week. I am open to both short-term or long-term projects. I can be reached out at rajatjindal83@gmail.com
+
 <p align="center">
   <a href="https://twitter.com/rajatjindal1983">Twitter</a> •
   <a href="https://www.linkedin.com/in/rajatjindal83/">LinkedIn</a>
@@ -7,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatjindal&hide=perl)](https://github.com/rajatjindal)&nbsp;&nbsp;&nbsp;
 [![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatjindal&count_private=true&show_icons=true)](https://github.com/rajatjindal)
 
-<h4>I’m currently looking for new opportunities and open for both contract and full-time positions. I can be reached out at rajatjindal83@gmail.com</h4>
+
 
 - In my spare time, I like to build fun projects using **Golang/Nuxtjs/Postgres/Tailwind**
 - I also have good experience working with **Kubernetes/Helm/AWS** and **Selenium/Webdriver**
