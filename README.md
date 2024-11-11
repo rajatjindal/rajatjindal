@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hello! I'm Rajat Jindal.</h2>
 
 > [!TIP]  
-> I am currently available to take on contract work for upto 20h per week. I am open to both short-term and long-term projects. You can reach out to me at rajatjindal83@gmail.com
+> I am currently available to take on contract work and open to both short-term and long-term projects. You can reach out to me at rajatjindal83@gmail.com
 
 <p align="center">
   <a href="https://twitter.com/rajatjindal1983">Twitter</a> •
