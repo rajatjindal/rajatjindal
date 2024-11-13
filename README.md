@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hello! I'm Rajat Jindal.</h2>
 
 > [!TIP]  
-> Ask me how I can help you with your Infra, CI/CD, DevOps or development needs. You can reach out to me at rajatjindal83@gmail.com
+> Ask me how I can help you with your Infra, CI/CD, DevOps or Backend Dev needs. You can reach out to me at rajatjindal83@gmail.com
 
 <p align="center">
   <a href="https://twitter.com/rajatjindal1983">Twitter</a> •
